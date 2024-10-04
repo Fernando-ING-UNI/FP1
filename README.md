@@ -18,4 +18,4 @@
 _texto italika_
 
 [Imagen ejemplo]
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.euroinnova.com%2Fblog%2Fingeniero-en-sistemas-computacionales-que-hace&psig=AOvVaw3zLEtKGXzGClkp5oQuT2Ml&ust=1728088348959000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICv8Nm884gDFQAAAAAdAAAAABAY
+https://media-public.canva.com/MADm23unju8/1/thumbnail_large.jpg
